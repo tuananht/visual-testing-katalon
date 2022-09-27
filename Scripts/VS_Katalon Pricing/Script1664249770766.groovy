@@ -23,6 +23,8 @@ WebUI.closeBrowser()
 
 WebUI.openBrowser('')
 
+WebUI.setViewPortSize(500, 800)
+
 WebUI.navigateToUrl('https://katalon.com/pricing')
 
 WebUI.takeFullPageScreenshotAsCheckpoint('katalon_pricing')
