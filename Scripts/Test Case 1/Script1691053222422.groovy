@@ -17,17 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('saucedemo.com')
 
-WebUI.closeBrowser()
+WebUI.setViewPortSize(1200, 1200)
 
-WebUI.openBrowser('')
-
-WebUI.setViewPortSize(500, 800)
-
-WebUI.navigateToUrl('https://katalon.com/pricing')
-
-WebUI.takeFullPageScreenshotAsCheckpoint('katalon_pricing')
+WebUI.takeScreenshotAsCheckpoint('HomePage')
 
 WebUI.closeBrowser()
 

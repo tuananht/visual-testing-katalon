@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>visual-testing-katalon</name>
+   <name>Test</name>
    <tag></tag>
-   <UUID>6e60cfc5-d3f2-4733-b7d0-deff82c1be67</UUID>
+   <UUID>94246d72-2d95-43a5-8204-8dab46e0a192</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/tuan.tran/Katalon Studio/visual-testing-katalon/visual-testing-katalon.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

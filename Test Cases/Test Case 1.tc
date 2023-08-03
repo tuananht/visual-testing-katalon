@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>VS_Katalon Pricing</name>
+   <name>Test Case 1</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>9f3453c2-857f-450b-b655-2e49ccda560d</testCaseGuid>
+   <testCaseGuid>e2d1766f-cd32-4a2a-be9c-e4ef7c7bde38</testCaseGuid>
 </TestCaseEntity>
